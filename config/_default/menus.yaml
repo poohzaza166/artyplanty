@@ -1,0 +1,17 @@
+main:
+
+  - name: blog
+    url: /blog/
+    weight: 1
+  - name: About
+    url: /homepage/
+    weight: 6
+#  - name: Posts
+#    url: /posts/
+#    weight: 2
+  - name: instruction
+    url: /instruction/
+    weight: 4
+#  - name: Our team member
+#    url: '#team member'
+#    weight: 5
