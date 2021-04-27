@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://artyplanty.co"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-eureka-0.7.0"

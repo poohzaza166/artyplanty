@@ -8,15 +8,15 @@ organization:
   name:
   url: https://example.com/
 social:
-  - icon: envelope
-    iconPack: fas
-    url: mailto:example@example.com
+#  - icon: envelope
+#    iconPack: fas
+#    url: mailto:example@example.com
   - icon: instagram
     iconPack: fab
-    url: https://example.com/
-  - icon: github
-    iconPack: fab
-    url: https://example.com/
+    url: https://www.instagram.com/artyplanty20/
+#  - icon: github
+#    iconPack: fab
+#    url: https://example.com/
 
 weight: 1
 widget:

@@ -35,13 +35,13 @@
     <loc>/instruction/example-doc/nested-chapter/chapter-2/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/instruction/example-doc/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/instruction/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/instruction/example-doc/nested-chapter/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/instruction/example-doc/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
