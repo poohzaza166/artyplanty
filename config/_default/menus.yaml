@@ -4,7 +4,7 @@ main:
     url: /blog/
     weight: 1
   - name: About
-    url: /homepage/
+    url: /
     weight: 6
 #  - name: Posts
 #    url: /posts/
