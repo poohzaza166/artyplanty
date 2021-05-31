@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: instructions
 series: []
-
+featuredImage: images/Cabbage.jpeg
 ...
 ---
 

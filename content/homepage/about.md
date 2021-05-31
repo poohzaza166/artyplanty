@@ -43,22 +43,28 @@ widget:
     attachment:
 ---
 
-## About our company
+### About our company
 
-ArtyPlanty is a small business related to gardening and art, which produces sustainable, aesthetically pleasing products and gifts, by bringing together art and the natural world.
-We started off as a business that wanted to merge the Art Department and Gardening Club in our college to bring about a unique set of products, which would stand out on the market by being both user-friendly and aesthetically pleasing.
+We are a company of international young people who came together to promote healthy diet and responsible consumption, as well as an idea of everyone having a close relation with nature, regardless of who you are or where you live.
 
-- our mission
+* Our Aim
 
 We are aiming, by providing our product, to enable people of different lifestyles to have a small garden in their room, flat or house.
 First and foremost, we strive to make Microgreens accessible and easy to take care of, regardless of your lifestyle or status.
 We want to make owning a Mogrogarden of Microgreens trendy, and we believe that the owners of our unique sets of Microgreens would further experience an improvement in their health and well-being.
 
-- our values
+We aim to enable people of different lifestyles to have a small garden of their own, in their room, flat or house.
+
+* our goal
+
+Our goal is to provide accessible, user-friendly and sustainable products, namely Microgreens sets, which can easily integrate into the consumers’ lifestyle, become an inseparable yet important part of their lives by bringing about health benefit to their day-to-day life without major distractions to their usual life tempo.
+
+* Our Values
 
 In our team, we value Enthusiasm, Creativity and Diversity and we strive to project those values in our product.
 In our work, we are guided by the Commitment, Meticulousness and Outspokenness
 
-- our goal
+* What are Microgreens? 
+These are vegetable greens harvested right after the first leaves have developed. 
 
-Our goal is to provide accessible, user-friendly and sustainable products, namely Microgreens sets, which can easily integrate into the consumers’ lifestyle, become an inseparable yet important part of their lives by bringing about health benefit to their day-to-day life without major distractions to their usual life tempo.
+Exactly at this point sprouts contain the most nutritional and energy benefits in the minimum size. Before, a similar amount of nutritional value could only have been accessed from big vegetables, vitamins or nutrition supplements, but this is no longer a requirement with our Microgreens kit.

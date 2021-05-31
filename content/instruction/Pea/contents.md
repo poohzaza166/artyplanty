@@ -6,6 +6,7 @@ authors: []
 tags: []
 categories: instructions
 series: []
+featuredImage: images/Pea.jpg
 ...
 ---
 
