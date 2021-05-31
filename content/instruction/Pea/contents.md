@@ -15,7 +15,7 @@ featuredImage: images/Pea.jpg
 Pea sprouts are high in fibre and rich in protein plus vitamins B3, B5 and B6. A slightly nutty flavour. Ideal for stir-fries and salads; can be eaten raw, grilled or deep fried. They’re full of vitamins that are anti-inflammatory and boost cardiovascular health. Pea microgreens have also been linked to weight loss, which is largely thanks to their fiber content (fiber is known to keep you full for longer).
 
 
-### growing instructions
+### Growing Instructions
 
 1. Soaking
 Most microgreen seeds don’t have to be soaked before planting, mainly because they’re so small. Pea seeds, however, are larger to begin with and also must absorb water before they germinate and grow.

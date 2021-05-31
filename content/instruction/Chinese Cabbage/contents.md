@@ -15,7 +15,7 @@ featuredImage: images/Cabbage.jpeg
 Pak Choi is a microgreen known by many names. Perhaps more recognizable as Chinese cabbage or bok choy.
 Produces flavoursome sprouts that contain vitamins A, B, C and K, along with nutrients such as Calcium, Iron and Potassium. A slightly nutty flavour. Ideal with fish and in sandwiches and salads. Sprouts typically ready after 9-10 days.
 
-### growing instructions
+### Growing Instructions
 
 1. Moisten the growing mat.
 
