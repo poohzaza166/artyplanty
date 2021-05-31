@@ -10,14 +10,14 @@ featuredImage: images/Radish.jpeg
 ...
 ---
 
-### Information of Radish daikon
+### Information on Radish daikon
 
 Also known as White Radish, Radish Daikon is a popular subject for sprouting due to its spicy flavour. Sprouts ready to harvest after approximately 6-8 days. For use in soups, sandwiches and as a garnish.
 When the seeds are sprouted vertically to produce the first set of leaves, they are referred to as kaiware daikon (カイワレ大根). The term "kaiware", which means "open shell", describes the shape of the leaves which have a heart-like shell appearance.
 
 
 
-### growing instructions
+### Growing Instructions
 
 1. Moisten the growing mat.
 
