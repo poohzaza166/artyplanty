@@ -10,7 +10,7 @@ featuredImage: images/Pea.jpg
 ...
 ---
 
-### information of Pea
+### Information of Pea
 
 Pea sprouts are high in fibre and rich in protein plus vitamins B3, B5 and B6. A slightly nutty flavour. Ideal for stir-fries and salads; can be eaten raw, grilled or deep fried. They’re full of vitamins that are anti-inflammatory and boost cardiovascular health. Pea microgreens have also been linked to weight loss, which is largely thanks to their fiber content (fiber is known to keep you full for longer).
 
