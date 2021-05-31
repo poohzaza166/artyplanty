@@ -5,13 +5,13 @@ main:
     weight: 1
   - name: About
     url: /
-    weight: 6
+    weight: 3
 #  - name: Posts
 #    url: /posts/
 #    weight: 2
   - name: instruction
     url: /instruction/
-    weight: 4
+    weight: 2
 #  - name: Our team member
 #    url: '#team member'
 #    weight: 5
