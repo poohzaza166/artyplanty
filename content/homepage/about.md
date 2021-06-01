@@ -55,7 +55,7 @@ We want to make owning a Mogrogarden of Microgreens trendy, and we believe that 
 
 We aim to enable people of different lifestyles to have a small garden of their own, in their room, flat or house.
 
-* our Goal
+* Our Goal
 
 Our goal is to provide accessible, user-friendly and sustainable products, namely Microgreens sets, which can easily integrate into the consumers’ lifestyle, become an inseparable yet important part of their lives by bringing about health benefit to their day-to-day life without major distractions to their usual life tempo.
 
