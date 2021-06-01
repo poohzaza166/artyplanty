@@ -65,6 +65,7 @@ In our team, we value Enthusiasm, Creativity and Diversity and we strive to proj
 In our work, we are guided by the Commitment, Meticulousness and Outspokenness
 
 * What are Microgreens? 
+
 These are vegetable greens harvested right after the first leaves have developed. 
 
 Exactly at this point sprouts contain the most nutritional and energy benefits in the minimum size. Before, a similar amount of nutritional value could only have been accessed from big vegetables, vitamins or nutrition supplements, but this is no longer a requirement with our Microgreens kit.
